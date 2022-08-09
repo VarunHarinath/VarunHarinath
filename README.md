@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VarunHarinath
-- 👀 I’m interested in Learning ew Skills
+- 👀 I’m interested in Learning new Skills
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me varunharinath15@gmail.com
 
