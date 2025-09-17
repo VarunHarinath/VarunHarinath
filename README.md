@@ -1,4 +1,4 @@
-👋 Hi there! I'm Varun Harinath, a passionate 3rd-year Computer Science student with a focus on Python. As a web developer and aspiring AI enthusiast, I thrive on turning ideas into elegant, user-friendly solutions. 
+👋 Hi there! I'm Varun Harinath, a passionate Senior Computer Science student with a focus on Python. As a web developer and aspiring AI enthusiast, I thrive on turning ideas into elegant, user-friendly solutions. 
 
 🚀 As a web developer, I thrive on turning innovative ideas into functional and visually appealing websites. I'm deeply passionate about creating seamless user experiences that combine creativity with technology. With a solid foundation in Python, I've honed my skills in backend and frontend development, enabling me to bring dynamic and responsive web projects to life.
 
