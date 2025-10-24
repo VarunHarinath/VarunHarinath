@@ -1,6 +1,6 @@
-# Hi, I'm Varun Harinath 👋
+# Hi, I'm Varun Harinath Rudravally👋
 
-**Senior CS Student | AI & Full-Stack Developer | Cloud & DevOps Enthusiast**
+**Senior CS Student | AI & Full-Stack Developer | Cloud & DevOps**
 
 ---
 
@@ -24,8 +24,8 @@
 
 | Project | Description | Tech Stack | Live/Demo |
 |---------|-------------|------------|-----------|
-| [AI Research Assistant](https://github.com/VarunHarinath/ai-research-assistant) | Distributed AI microservices for research summarization | Python, Node.js, RabbitMQ, LangChain, AWS, Docker | Live |
-| [EventAura](https://github.com/VarunHarinath/eventaura) | Full-stack event management platform | React, Node.js, Express, MongoDB, GCP, Docker | Demo |
+| [AI Research Assistant]([https://github.com/VarunHarinath/ai-research-assistant](https://github.com/VarunHarinath/AI-Research-Assistant)) | Distributed AI microservices for research summarization | Python, Node.js, RabbitMQ, LangChain, AWS, Docker | [Demo] |
+| [EventAura]([https://github.com/VarunHarinath/eventaura](https://github.com/EventAura)) | Full-stack event management platform | React, Node.js, Express, MongoDB, GCP, Docker | [Live](https://www.eventauraa.tech) |
 
 ---
 
